@@ -24,11 +24,11 @@ Featured Projects
 Content Generation & AI Productivity-An AI-powered content generation platform built to help users create and manage written content efficiently.
 Repo: https://github.com/ThulisileMogadime15/content-forge
 
- Sentiment Analysis & Data Insights- A full-featured asset management application for tracking, organising, and managing digital and physical assets.
- Repo:https://github.com/ThulisileMogadime15/Asset-Manager
+Sentiment Analysis & Data Insights- A full-featured asset management application for tracking, organising, and managing digital and physical assets.
+Repo:https://github.com/ThulisileMogadime15/Asset-Manager
 
 AI Solution Development & Industry Application-A web tool that captures live screenshots and snapshots of any website, useful for monitoring and auditing web content.
-Repo:
+Repo:https://github.com/ThulisileMogadime15/Website-Snapshot
 
 
 Certifications
