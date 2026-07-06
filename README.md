@@ -30,8 +30,7 @@ Repo:https://github.com/ThulisileMogadime15/Asset-Manager
 AI Solution Development & Industry Application-A web tool that captures live screenshots and snapshots of any website, useful for monitoring and auditing web content.
 Repo:https://github.com/ThulisileMogadime15/Website-Snapshot
 
-
-Certifications
+Certifications:
 Cisco Certified: Network Associate Cybersecurity
 
 Microsoft Certified: Azure Fundamentals
