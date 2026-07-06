@@ -19,8 +19,13 @@ Tools: Github, Microsoft Office and Google Workspace
 
 Operating System: Windows, Linux(Learning)
 
-Feature Projects
-jgbgg
+Featured Projects
+
+Content Generation & AI Productivity-An AI-powered content generation platform built to help users create and manage written content efficiently.
+Repo: https://github.com/ThulisileMogadime15/content-forge
+
+ Sentiment Analysis & Data Insights- A full-featured asset management application for tracking, organising, and managing digital and physical assets.
+ Repo:
 
 Certifications
 Cisco Certified: Network Associate Cybersecurity
