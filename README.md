@@ -31,8 +31,6 @@ AI Solution Development & Industry Application-A web tool that captures live scr
 Repo:https://github.com/ThulisileMogadime15/Website-Snapshot
 
 Certifications:
-Cisco Certified: Network Associate Cybersecurity
-
-Microsoft Certified: Azure Fundamentals
+Cisco Certified: Network Associate Cybersecurity| Microsoft Certified: Azure Fundamentals
 
 
