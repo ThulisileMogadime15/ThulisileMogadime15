@@ -1,7 +1,5 @@
 Hi there, Thulisile Mogadime👋
 
-Currently learning: 
-
 Aspiring: Cybersecurity Analyst| SOC Analyst| Blue Team Analyst
 
 Passionate about:Protecting digital system, investigating security incidents and learning new cybersecurity technologies
